@@ -1,1 +1,3 @@
 Hello Jeremy
+
+I am practicing editing files with GitHub
